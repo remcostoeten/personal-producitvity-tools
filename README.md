@@ -1,3 +1,51 @@
+# Autohotkey script
+
+A script with shortcuts
+
+# Chocolatey install script
+
+```
+`choco install --yes --limit-output $(choco list --local-only --id-only)`
+PS C:\Users\Remco\sites\producitvity-tools> choco list --local-only
+>>
+Chocolatey v1.3.1
+chocolatey 1.3.1
+chocolatey-compatibility.extension 1.0.0
+chocolatey-core.extension 1.4.0
+chocolatey-dotnetfx.extension 1.0.1
+chocolatey-windowsupdate.extension 1.0.5
+docker-desktop 4.19.0
+dotnet-7.0-desktopruntime 7.0.5
+dotnet-desktopruntime 7.0.5
+DotNet4.5.2 4.5.2.20140902
+dotnetfx 4.8.0.20220524
+Firefox 112.0.2
+hamsket-nightly 0.60.7
+hyper 3.4.1
+KB2919355 1.0.20160915
+KB2919442 1.0.20160915
+KB2999226 1.0.20181019
+KB3033929 1.0.5
+KB3035131 1.0.3
+KB3063858 1.0.0
+nano 7.2.25
+nano-win 7.2.25
+nodejs 20.1.0
+nodejs.install 20.1.0
+powertoys 0.68.1
+sharex 15.0.0
+tor 0.4.7.11
+vcredist140 14.34.31938
+vim 9.0.1523
+vlc 3.0.18
+vlc.install 3.0.18
+WhatsApp 2.2319.9
+31 packages installed.
+```
+
+https://chocolatey.org install script.
+When reinstalling windows just run choco script instead of the tedious process of installing all your applications one by one.
+
 # Powershell config
 
 Or in my case Hyper.js terminal because ✨ aesthetics✨. Primairly just some personal shortcuts like `commit "message" which is shorthand for `git commit -m "message"`or`catcopy`which copys the content of`cat filename`to boost productivity or aliasses to imitate some unix functions like`touch`
