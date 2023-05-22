@@ -1,6 +1,6 @@
 # Autohotkey script
 
-A script with shortcuts
+A script with shortcuts. Download Autohotkey first. https://www.autohotkey.com/ and then place `startup.ahk` inside the starutp folder at `C:\Users\Remco\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
 # Chocolatey install script
 
